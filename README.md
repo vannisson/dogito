@@ -22,6 +22,7 @@ The project is still under development and the next updates will focus on the fo
 Before you begin, make sure you have installed the following tools:
 
 - [Miniconda](https://docs.anaconda.com/free/miniconda/) (24.4.0)
+- [FFmpeg](https://ffmpeg.org/download.html) (7.0.1)
 
 ## 🍖 Installing
 
