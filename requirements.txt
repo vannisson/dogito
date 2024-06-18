@@ -1,2 +1,3 @@
-discord.py==2.3.2 
+discord.py[voice]==2.3.2 
+yt-dlp==2024.5.27
 python-dotenv==1.0.1

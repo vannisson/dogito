@@ -12,8 +12,10 @@ Dogito is a custom bot made for a discord server that my friends created. The go
 The project is still under development and the next updates will focus on the following tasks:
 
 - [x] Give roles according to the reaction emote;
-- [ ] Plays music by giving a link from Youtube;
-- [ ] Database to establish economy on the server;
+- [x] Plays music by giving a music link from Youtube;
+- [x] Plays music by giving a playlist link from Youtube;
+- [ ] Allow slash commands;
+- [ ] Establish economy on the server;
 
 ## 🥩 Prerequisites
 
